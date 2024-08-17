@@ -8,7 +8,7 @@ Estou focado em aprender novas tecnologias e usá-las a meu favor, e com equipes
 Utilizo:
 
 <div aling="center">
-<img src="https://github.com/user-attachments/assets/036cc35a-2aaa-4d2b-9c69-5c20c22294c6" width="35px"/>
+<img src="https://github.com/user-attachments/assets/036cc35a-2aaa-4d2b-9c69-5c20c22294c6" width="50px" heigh="50px"/>
 <div/>
 <!--
 **vinileitelog/vinileitelog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
